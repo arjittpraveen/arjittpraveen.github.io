@@ -33,7 +33,7 @@ sns.relplot(x = 'happiness_score', y = 'life_exp', data = happiness, kind = 'sca
 plt.show()
 ```
 
-![Desktop View](..\assets\img\_img\output1.svg){: width = "" height = ""}
+![Desktop View](/assets/img/_img/output1.svg){: width = "" height = ""}
 _happiness score vs. life expectancy_
 
 The image above is a scatter plot with a fitted line regression (you don't need to know what line regression is for now). It shows a scatter plot between the happiness score of an individual and their corresponding life expectancy. Notice how the trend goes upwards and is clustered closely towards the line? It suggests that there is a **strong positive correlation** between the two variables.
